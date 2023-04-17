@@ -1,0 +1,17 @@
+{
+    "items": [
+        {
+            "fields": {
+                "question_post": {
+                    "added_at": "2023-04-03T11:00:00",
+                    "text": "Question text",
+                    "score": 1
+                },
+                "answer_post": {
+                    "added_at": "2023-04-03T11:00:00",
+                    "text": "example answer for the post"
+                }
+            }
+        }
+    ]
+}
